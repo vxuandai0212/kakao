@@ -39,6 +39,7 @@ declare module '@vue/runtime-core' {
     IconPollingPostSomething: typeof import('./src/components/icons/IconPollingPostSomething.vue')['default']
     IconSearch: typeof import('./src/components/icons/IconSearch.vue')['default']
     IconSupport: typeof import('./src/components/icons/IconSupport.vue')['default']
+    IconTelegram: typeof import('./src/components/icons/IconTelegram.vue')['default']
     IconTooling: typeof import('./src/components/icons/IconTooling.vue')['default']
     IconTwitter: typeof import('./src/components/icons/IconTwitter.vue')['default']
     IconTwitterColor: typeof import('./src/components/icons/IconTwitterColor.vue')['default']
